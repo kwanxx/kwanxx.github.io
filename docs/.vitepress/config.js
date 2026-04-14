@@ -49,6 +49,7 @@ export default {
             { text: '小程序', link: '/blog/smallapp/' },
             { text: 'Node', link: '/blog/Node/' },
             { text: 'SpringBoot', link: '/blog/SpringBoot/' },
+            { text: 'Python', link: '/blog/Python/' },
             { text: 'Linux', link: '/blog/Linux/' },
             { text: 'llm', link: '/blog/llm/' },
             { text: 'Android', link: '/blog/Android/' },
