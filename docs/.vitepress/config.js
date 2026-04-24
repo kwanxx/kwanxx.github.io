@@ -50,6 +50,7 @@ export default {
             { text: 'Node', link: '/blog/Node/' },
             { text: 'SpringBoot', link: '/blog/SpringBoot/' },
             { text: 'Python', link: '/blog/Python/' },
+            { text: 'Golang', link: '/blog/Golang/' },
             { text: 'Linux', link: '/blog/Linux/' },
             { text: 'llm', link: '/blog/llm/' },
             { text: 'Android', link: '/blog/Android/' },
